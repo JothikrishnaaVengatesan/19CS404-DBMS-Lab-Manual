@@ -315,9 +315,9 @@ ADD COLUMN net_salary number;
 ## COMPLETION GRADES
 <<<<<<< HEAD
 ![alt text](<../Experiment2_DDL_Commands/Screenshot 2025-06-04 214353.png>)
-=======
+
 ![image](https://github.com/user-attachments/assets/292189eb-909e-4c0d-9f42-44ebd02128a3)
->>>>>>> 014778db4d0589c96866c0b31075ddc997b37223
+
 
 
 ## RESULT
